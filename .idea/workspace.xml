@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88e68f9e-2046-4a67-b382-39579c25c29d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/constants/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/actions/examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/actions/examples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/reducers/examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/reducers/examples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/containers/App.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +28,7 @@
         <option value="$PROJECT_DIR$/src/app/actions/examples.js" />
         <option value="$PROJECT_DIR$/src/app/reducers/examples.js" />
         <option value="$PROJECT_DIR$/src/app/containers/App.jsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -52,8 +36,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="319" />
-    <option name="y" value="112" />
+    <option name="x" value="286" />
+    <option name="y" value="22" />
     <option name="width" value="1574" />
     <option name="height" value="995" />
   </component>
@@ -195,18 +179,18 @@
       <workItem from="1643874840938" duration="710000" />
       <workItem from="1643876054705" duration="9820000" />
       <workItem from="1643886765590" duration="14000" />
-      <workItem from="1643890697836" duration="370000" />
+      <workItem from="1643890697836" duration="1101000" />
+      <workItem from="1643893266365" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10914000" />
+    <option name="totallyTimeSpent" value="11734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="319" y="112" width="1574" height="995" extended-state="0" />
-    <editor active="true" />
+    <frame x="286" y="22" width="1574" height="995" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32166445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32628798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -241,9 +225,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -297,8 +278,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/containers/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="280">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
