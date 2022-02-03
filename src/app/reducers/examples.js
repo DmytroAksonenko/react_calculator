@@ -1,12 +1,13 @@
-import { SAVE_EXAMPLES, internalValue } from '../actions/examples'
+import { SAVE_EXAMPLES } from '../constants/actionTypes'
+import { internalValue } from '../actions/examples'
 
 export function createStore(rootReducer) {
-	let state = {}
-	const examples = []
+	let state = {};
+	const examples = [];
 
 	return {
 		dispatch(action) {
-			state = rootReducer(state, action)
+			state = rootReducer(state, action);
 			examples.forEach(sub => sub())
 		},
 
@@ -20,7 +21,7 @@ export function createStore(rootReducer) {
 
 export function rootReducer(state, action) {
 	if (action.type === SAVE_EXAMPLES, internalValue) {
-		state = internalValue
+		state = internalValue;
 		return state
 	}
 	return state

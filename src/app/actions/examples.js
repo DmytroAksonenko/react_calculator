@@ -1,12 +1,14 @@
-export let internalValue
+import {
+  SAVE_EXAMPLES,
+  GET_EXAMPLES,
+} from '../constants/actionTypes'
 
-export const SAVE_EXAMPLES = 'SAVE_EXAMPLES'
-export const GET_EXAMPLES = 'GET_EXAMPLES'
+export let internalValue;
 
-export function saveExamples(value){	
-	internalValue = value
-	return{
-		type: SAVE_EXAMPLES, internalValue
-	}
+export function saveExamples(value) {
+  internalValue = value;
+  return {
+    type: SAVE_EXAMPLES, internalValue
+  }
 }
 

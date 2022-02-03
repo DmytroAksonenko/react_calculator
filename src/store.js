@@ -27,6 +27,6 @@ let store = {
 
 	nameC: 'C',
 	nameE: '=',
-}
+};
 
 export default store

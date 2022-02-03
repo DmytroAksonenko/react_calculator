@@ -1,0 +1,2 @@
+export const SAVE_EXAMPLES = 'SAVE_EXAMPLES';
+export const GET_EXAMPLES = 'GET_EXAMPLES';
